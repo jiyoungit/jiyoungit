@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,3,7,13,17&height=300&section=header&text=Jiyoung&nbsp;Park&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,3,7,13,17&height=300&section=header&text=Jiyoung&nbsp;Park&fontSize=90)   
 
 <a href="https://tranquil-giver-f68.notion.site/84c5cfbb78f8469cb469aef266fdc54d"><img src="https://img.shields.io/badge/포트폴리오-3b88c3?style=flat&logo=notion&logoColor=white"></a>
 <a href="https://velog.io/@jypapapaa"><img src="https://img.shields.io/badge/JYPAPAPAA-20C997?style=flat&logo=velog&logoColor=white"></a>
